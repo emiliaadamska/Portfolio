@@ -14,7 +14,7 @@ My name is Emilia Adamska. I am master of special education. Recently I have sta
 * Reporting bugs
 
 # Courses
-* Udemy - kurs Testowania Oprpogramowania
+* Udemy - kurs Testowania Oprogramowania
 
 # My test case examples
 * Test cases - https://drive.google.com/drive/folders/1V6cbDxskMi5_6KMxskW5Et0fzJnhfv6D
