@@ -1,7 +1,7 @@
 # Portfolio
 
 # About me 
-My name is Emilia Adamska.I am master of special education. Recently I have started to interest of software testing. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies.
+My name is Emilia Adamska. I am master of special education. Recently I have started to interest of software testing. My goal is to develop testing knowledge and technical skills. On this site I would like to share my all gained experience from personal studies.
 
 # Tools
 * Testlink
